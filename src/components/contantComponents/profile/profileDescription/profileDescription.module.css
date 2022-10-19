@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    margin: 20px 0 0 2%;
+}
+.avatar{
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+.profileInfo{
+    margin: 0 0 0 30px;
+    font-size: 20px;
+}

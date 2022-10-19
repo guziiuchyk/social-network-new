@@ -1,0 +1,10 @@
+.dialogsList{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 12%;
+  font-size: 21px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+}

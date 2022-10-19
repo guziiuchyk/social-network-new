@@ -1,0 +1,17 @@
+.wrapper {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.wrapper a{
+  margin: 7px 0;
+  font-weight: 500;
+}
+.wrapper  .activeLink{
+  font-weight: 700;
+}
+.link:last-child{
+  margin-top: 15px;
+}

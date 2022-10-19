@@ -1,0 +1,28 @@
+.message{
+  font-size: 19px;
+  margin: auto 10px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 15px;
+}
+
+.userAvatar{
+  width: 40px;
+  height: 40px;
+}
+.wrapper{
+  display: flex;
+  margin: 30px 5px;
+}
+.messageYou{
+  display: flex;
+  flex-direction: row-reverse;
+  border-radius: 5px;
+  margin: 30px 5px;
+
+}
+.messageNotYou{
+  border-radius: 5px;
+  display: flex;
+  margin: 30px 5px;
+}

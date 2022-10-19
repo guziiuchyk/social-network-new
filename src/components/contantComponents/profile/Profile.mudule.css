@@ -1,0 +1,6 @@
+.mainContant{
+    grid-area: mainContant;
+    background-color: green;
+    border-radius: 10px;
+    border: 1px solid black;
+}
